@@ -1,9 +1,9 @@
 [
   {
-    "name": "reviewapp",
-    "theme_name": "reviewapp",
-    "theme_version": "0.0.2",
-    "theme_author": "Shopify",
+    "name": "theme_info",
+    "theme_name": "Packer blank theme",
+    "theme_version": "1.0.7",
+    "theme_author": "Eric Hayes",
     "theme_documentation_url": "https://shopify.dev/themes/tools/dawn",
     "theme_support_url": "https://support.shopify.com/"
   },
