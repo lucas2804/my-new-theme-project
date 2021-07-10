@@ -106,3 +106,8 @@ Ensure that you follow the list of [theme store requirements](https://shopify.de
 ## License
 
 Copyright (c) 2021-present Shopify Inc. See [LICENSE](/LICENSE.md) for further details.
+
+
+git config --global user.name "LucDang"
+git config --global user.email quanglucdang2804@gmail.com
+# my-new-theme-project
